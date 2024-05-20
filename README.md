@@ -1,2 +1,2 @@
-# Wkwang' Paper Log
-Weikang's Paper Reading Blog
+# Wkwang' Hobby
+Weikang's Hobby Page
