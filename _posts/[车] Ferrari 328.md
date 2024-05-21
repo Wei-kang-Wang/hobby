@@ -6,7 +6,10 @@ date: 2024-05-20 01:09:00
 tags: ferrari
 ---
 
+<!--more-->
+
 ![0]({{ '/assets/images/cars/ferrari_328/0.jpg' | relative_url }}){: style="width: 1200px; max-width: 100%;"}
+
 
 Ferrari 328 GTB和GTS（F106型）是由意大利汽车制造商Ferrari生产的中置V8发动机两座跑车。它是法拉利308 GTB和GTS的后继产品。虽然机械结构仍以308为基础，但对车身、底盘和发动机进行了修改，最引人注目的是发动机排量增加至3.2 L，以增加功率和扭矩输出。1989年，348 取代了328。
 
